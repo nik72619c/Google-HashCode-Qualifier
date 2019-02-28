@@ -2,5 +2,5 @@
 the pizza problem
 
 # Team-Negan
-Shakti Singh
-Nikhil Sharma
+1. Shakti Singh
+2. Nikhil Sharma
